@@ -5,12 +5,14 @@ import pt from '@angular/common/locales/pt';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { SimpleExampleComponent } from './simple-example/simple-example.component';
 
 registerLocaleData(pt);
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SimpleExampleComponent
   ],
   imports: [
     BrowserModule,
