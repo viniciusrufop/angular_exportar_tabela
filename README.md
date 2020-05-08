@@ -1,6 +1,6 @@
 # Exportar tabelas html para excel com angular
 
-Para testar funcionalidade bastar acessar o link [Teste da aplicação])(https://viniciusrufop.github.io/angular_exportar_tabela_excel/)
+Para testar funcionalidade bastar acessar o link [Teste da aplicação](https://viniciusrufop.github.io/angular_exportar_tabela_excel/)
 
 ## Instalar dependência
 Rodar comando `npm install xlsx`.
